@@ -1,3 +1,8 @@
+# Gmail Automation
+- Gmail Automatic login and logout using python Selenium library.
+## Happy Coding :)
+```python
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -21,4 +26,4 @@ def function1():
     browser.close()
 
 function1()
-
+```
