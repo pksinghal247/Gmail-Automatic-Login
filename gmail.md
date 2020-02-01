@@ -1,6 +1,6 @@
 # Gmail Automation
 - Gmail Automatic login and logout using python Selenium library.
-## Happy Coding :)
+## Happy Coding 😊
 ```python
 
 from selenium import webdriver
